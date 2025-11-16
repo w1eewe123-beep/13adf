@@ -1,0 +1,17 @@
+{
+  "name": "pro-like-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot with /say and /embed commands (Playing Nord)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.34",
+    "dotenv": "^16.3.1"
+  }
+}
